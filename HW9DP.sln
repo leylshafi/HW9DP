@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strategy.csproj", "{46940B2F-C8F6-430E-BE0E-DC0EA66E0C72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod", "TemplateMethod\TemplateMethod.csproj", "{257E29CB-FBD5-49EB-ADD6-33EE2AEFE73E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visitor", "Visitor\Visitor.csproj", "{5E64CE93-3653-4A87-8BD4-4D3D621FDDB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46940B2F-C8F6-430E-BE0E-DC0EA66E0C72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46940B2F-C8F6-430E-BE0E-DC0EA66E0C72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46940B2F-C8F6-430E-BE0E-DC0EA66E0C72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46940B2F-C8F6-430E-BE0E-DC0EA66E0C72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{257E29CB-FBD5-49EB-ADD6-33EE2AEFE73E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{257E29CB-FBD5-49EB-ADD6-33EE2AEFE73E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{257E29CB-FBD5-49EB-ADD6-33EE2AEFE73E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{257E29CB-FBD5-49EB-ADD6-33EE2AEFE73E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E64CE93-3653-4A87-8BD4-4D3D621FDDB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E64CE93-3653-4A87-8BD4-4D3D621FDDB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E64CE93-3653-4A87-8BD4-4D3D621FDDB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E64CE93-3653-4A87-8BD4-4D3D621FDDB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {687FD5BB-A48F-48EB-A8CB-0C79EE1CB983}
+	EndGlobalSection
+EndGlobal
